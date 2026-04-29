@@ -1,0 +1,36 @@
+test,min,max,unit,category,severity
+Hemoglobin,12.0,16.0,g/dL,Blood,High
+WBC,4000.0,11000.0,cells/uL,Blood,High
+RBC,4.5,5.9,million/uL,Blood,High
+Platelets,150000.0,450000.0,cells/uL,Blood,High
+Hematocrit,36.0,50.0,%,Blood,High
+MCV,80.0,100.0,fL,Blood,High
+MCH,27.0,33.0,pg,Blood,High
+MCHC,32.0,36.0,g/dL,Blood,High
+Neutrophils,40.0,70.0,%,Blood,High
+Lymphocytes,20.0,40.0,%,Blood,High
+Glucose,70.0,99.0,mg/dL,Diabetes,Critical
+HbA1c,4.0,5.6,%,Diabetes,Critical
+Total Cholesterol,0.0,200.0,mg/dL,Lipid,Critical
+HDL,40.0,100.0,mg/dL,Lipid,Good
+LDL,0.0,100.0,mg/dL,Lipid,Critical
+Triglycerides,0.0,150.0,mg/dL,Lipid,Critical
+Cholesterol Ratio,3.0,5.0,ratio,Lipid,Critical
+SGPT (ALT),7.0,56.0,U/L,Liver,Critical
+SGOT (AST),10.0,40.0,U/L,Liver,Critical
+Bilirubin,0.1,1.2,mg/dL,Liver,Critical
+Albumin,3.5,5.5,g/dL,Liver,Good
+Alkaline Phosphatase,44.0,147.0,U/L,Liver,Critical
+Creatinine,0.6,1.3,mg/dL,Kidney,Critical
+Urea,7.0,20.0,mg/dL,Kidney,Critical
+Uric Acid,3.5,7.2,mg/dL,Kidney,Critical
+eGFR,90.0,120.0,mL/min,Kidney,Critical
+TSH,0.4,4.0,mIU/L,Thyroid,Critical
+T3,80.0,200.0,ng/dL,Thyroid,Critical
+T4,5.0,12.0,µg/dL,Thyroid,Critical
+Vitamin D,30.0,100.0,ng/mL,Vitamins,Critical
+Vitamin B12,200.0,900.0,pg/mL,Vitamins,Critical
+CRP,0.0,5.0,mg/L,Inflammation,Critical
+Troponin,0.0,0.04,ng/mL,Heart,Critical
+Blood Pressure Systolic,90.0,120.0,mmHg,Heart,Critical
+Blood Pressure Diastolic,60.0,80.0,mmHg,Heart,Critical
